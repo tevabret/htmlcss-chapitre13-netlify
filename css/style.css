@@ -114,6 +114,18 @@ aside {
     aside .block p {
       margin: 1rem 0;
       font-style: italic; }
+    aside .block .mail:hover {
+      color: var(--primary); }
+    aside .block .dyma:hover {
+      color: var(--primary); }
+    aside .block .htmlcss:hover {
+      color: var(--primary); }
+    aside .block .udemy:hover {
+      color: var(--primary); }
+    aside .block .cqpm:hover {
+      color: var(--primary); }
+    aside .block .bacpro:hover {
+      color: var(--primary); }
     aside .block iframe {
       margin-top: 2rem;
       align-items: center; }
