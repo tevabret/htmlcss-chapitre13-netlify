@@ -189,6 +189,7 @@ main {
     display: flex;
     margin: 6rem 0; }
     main .experience .timeline {
+      flex: 10%;
       text-align: center;
       color: var(--hint);
       padding-right: 3rem;
@@ -196,6 +197,7 @@ main {
       main .experience .timeline p {
         margin: 0; }
     main .experience .content {
+      flex: 90%;
       padding: 0 1rem; }
       main .experience .content h3 {
         margin: 0; }
@@ -228,7 +230,8 @@ footer {
     border-top-left-radius: 5px; }
   footer .btn {
     border: 0;
-    cursor: pointer; }
+    cursor: pointer;
+    background: none; }
     footer .btn:hover {
       opacity: 0.8;
       transition: all 0.2s; }
