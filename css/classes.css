@@ -1,0 +1,15 @@
+.title-small {
+  letter-spacing: 0.5rem;
+  font-size: 1.8rem;
+  text-decoration: underline;
+  font-weight: bold; }
+
+.text-primary {
+  color: var(--primary); }
+
+.text-hint {
+  color: var(--hint); }
+
+span {
+  font-size: 1.6rem;
+  font-family: var(--font-family); }
